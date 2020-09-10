@@ -6,7 +6,7 @@
 <a href="https://www.linkedin.com/in/rezaalie/">Linkedin</a>
 </p>
 
-## Dataset for cryptocurrency
+## Datasets for cryptocurrency
 <br>
 count of records : 5319
 
